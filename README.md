@@ -1,1 +1,1 @@
-# simon-game
+## A simulation of Simon Game 
